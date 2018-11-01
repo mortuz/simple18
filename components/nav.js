@@ -28,13 +28,13 @@ document.write(`
                 <a class="nav-link text-white" href="./page1.html">Menu 1</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link text-white" href="#">Menu 2</a>
+                <a class="nav-link text-white" href="./page1.html">Menu 2</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link text-white" href="#">Menu 3</a>
+                <a class="nav-link text-white" href="./page1.html">Menu 3</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link text-white" href="#">Menu 4</a>
+                <a class="nav-link text-white" href="./page1.html">Menu 4</a>
             </li>
         </ul>
     </header>
