@@ -4,7 +4,7 @@ document.write(`
     
         <div class="container">
             <div class="row">
-                <div class="col-md-4">
+                <div class="col-md-3">
                     <ul class="list-unstyled">
                         <li>Home</li>
                         <li>Home</li>
@@ -13,7 +13,7 @@ document.write(`
                     </ul>
                 </div>
     
-                <div class="col-md-4">
+                <div class="col-md-3">
                     <ul class="list-unstyled">
                         <li>Home</li>
                         <li>Home</li>
@@ -22,20 +22,36 @@ document.write(`
                     </ul>
                 </div>
     
-                <div class="col-md-4">
+                <div class="col-md-3">
                     <ul class="list-unstyled">
                         <li>Home</li>
                         <li>Home</li>
                         <li>Home</li>
                         <li>Home</li>
+                    </ul>
+                </div>
+                <div class="col-md-3">
+                    <ul class="list-unstyled">
+                        <li>Home Lorem Ipsum Home Lorem</li>
+                        <li>Home Lorem Ipsum Home Lorem</li>
+                        <li>Home Lorem Ipsum Home Lorem</li>
+                        <li>Home Lorem Ipsum Home Lorem</li>
                     </ul>
                 </div>
     
             </div>
-            <div class="text-right">
+            
+        </div>
+
+    <div class="container">
+    <div class="row">
+    <div class="col-12">
+    <div class="text-right">
                 copyright &copy; 2018
             </div>
-        </div>
+            </div>
+            </div>
+            </div>
     </footer>
 
 `);
