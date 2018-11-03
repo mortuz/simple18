@@ -1,6 +1,11 @@
 document.write(`
 
-    <header class="bg-background">
+ <header class="bg-background">
+<div class="container">
+            <div class="row">
+                <div class="col">
+
+                
         <nav class="navbar navbar-expand-lg navbar-dark">
             <a class="navbar-brand" href="./index.html">Logo</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -37,6 +42,11 @@ document.write(`
                 <a class="nav-link text-white" href="./page1.html">Menu 4</a>
             </li>
         </ul>
+   
+
+   </div>
+   </div>
+   </div>
     </header>
 
 `);
