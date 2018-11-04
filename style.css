@@ -60,12 +60,12 @@ a.page-link{
 
 .footer1 {
     position: fixed;
-    /* height: 200px; */
+    /* height: calc(100vh -296px); */
     bottom: 0;
     width: 100%;
 }
 .content {
-    min-height: 595px;
+    min-height: calc(100vh - 296px);
 }
 @media (max-width: 500px) {
     .table-sm-responsive {

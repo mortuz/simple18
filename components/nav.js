@@ -22,7 +22,7 @@ document.write(`
                         <a class="nav-link" href="./wishlist.html">WishList</a>
                     </li>
                     <li class="nav-item active">
-                        <a class="nav-link" href="./login.html">Login</a>
+                        <a class="nav-link pr-0" href="./login.html">Login</a>
                     </li>
                 </ul>
             </div>

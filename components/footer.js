@@ -32,10 +32,10 @@ document.write(`
                 </div>
                 <div class="col-md-3">
                     <ul class="list-unstyled">
-                        <li>Home Lorem Ipsum Home Lorem</li>
-                        <li>Home Lorem Ipsum Home Lorem</li>
-                        <li>Home Lorem Ipsum Home Lorem</li>
-                        <li>Home Lorem Ipsum Home Lorem</li>
+                        <li>Homeloremipsumhomeloremipsum1</li>
+                        <li>Homeloremipsumhomeloremipsum1</li>
+                        <li>Homeloremipsumhomeloremipsum1</li>
+                        <li>Homeloremipsumhomeloremipsum1</li>
                     </ul>
                 </div>
     
