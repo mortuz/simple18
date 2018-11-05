@@ -38,7 +38,7 @@ nav a {
     background-color: #7851a9;
 }
 
-h2{
+h2,h3,h4,h5,h6{
     color: #7851a9;
 }
 
@@ -104,4 +104,8 @@ a.page-link{
   margin-bottom: 10px;
   border-top-left-radius: 0;
   border-top-right-radius: 0;
+}
+
+.filter-2{
+    padding-top: 280px;
 }
